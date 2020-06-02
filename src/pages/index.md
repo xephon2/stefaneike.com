@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Crafting information architectures and engineering knowledge solutions
+title: Stefan Eike
 image: /img/home-jumbotron.jpg
 heading: Crafting information architectures and engineering knowledge solutions
 subheading: Channel your company knowledge without flooding your recipients
 mainpitch:
-  title: Stefan Eike
+  title: About the Consultant
   description: >
     Stefan Eike is a consultant for technical documentation and software documentation
     with a focus on DITA-XML.
