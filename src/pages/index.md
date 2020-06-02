@@ -27,13 +27,11 @@ intro:
       text: >
         We dive deep and investigate the source code of the docs. Is the quality
         and style consistent? Are patterns and style guides applied?
-    - image: /img/meeting-space.png
+    - image: /img/tools.png
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        We get familiar with your tools and investigate with your team whether
+        the tools are state-of-the-art, suitable and efficient or should be
+        extended or replaced.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
