@@ -1,11 +1,11 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Crafting information architectures and engineering knowledge solutions
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: Crafting information architectures and engineering knowledge solutions
+subheading: Channel your company knowledge without flooding your recipients
 mainpitch:
-  title: Why Kaldi
+  title: Stefan Eike
   description: >
     Kaldi is the coffee store for everyone who believes that great coffee
     shouldn't just taste good, it should do good too. We source all of our beans
