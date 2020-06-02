@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:export-ydpi="96"
+   inkscape:export-xdpi="96"
+   inkscape:export-filename="/home/stefan/Dokumente/Stefan Eike Consulting/Website/stefaneike.com/static/img/code-review.png"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="code-review.svg"
+   xml:space="preserve"
+   viewBox="0 0 240 190"
+   height="190"
+   width="240"
+   y="0px"
+   x="0px"
+   id="Layer_1"
+   version="1.1"><metadata
+   id="metadata133"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs131" /><sodipodi:namedview
+   inkscape:current-layer="layer2"
+   inkscape:window-maximized="1"
+   inkscape:window-y="27"
+   inkscape:window-x="0"
+   inkscape:cy="317.27133"
+   inkscape:cx="274.5651"
+   inkscape:zoom="1.1358311"
+   showgrid="false"
+   id="namedview129"
+   inkscape:window-height="1016"
+   inkscape:window-width="1920"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0"
+   guidetolerance="10"
+   gridtolerance="10"
+   objecttolerance="10"
+   borderopacity="1"
+   bordercolor="#666666"
+   pagecolor="#ffffff" />
+<style
+   id="style2"
+   type="text/css">
+	.st0{fill:#2E2E2F;}
+	.st1{fill:#3C3C3C;}
+	.st2{opacity:0.1;fill:#FFFFFF;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#E83F4E;}
+	.st5{fill:#2EAB62;}
+	.st6{fill:#F3D438;}
+	.st7{fill:#FAF5F5;}
+	.st8{fill:#878787;}
+	.st9{fill:#51484B;}
+	.st10{opacity:0.15;fill:#FAF5F5;}
+	.st11{opacity:5.000000e-002;fill:#FAF5F5;}
+</style>
+<g
+   style="display:inline"
+   inkscape:label="Terminal"
+   id="layer3"
+   inkscape:groupmode="layer"><path
+     style="fill:#2e2e2f;stroke-width:0.552969"
+     class="st0"
+     d="M 203.05122,145.76251 H 28.700233 C 26.101281,145.76251 24,143.66123 24,141.06228 V 4.700233 C 24,2.101281 26.101281,0 28.700233,0 H 203.05122 c 2.59895,0 4.70023,2.101281 4.70023,4.700233 V 141.06228 c 0,2.59895 -2.10128,4.70023 -4.70023,4.70023 z"
+     id="path4" /><path
+     style="fill:#3c3c3c;stroke-width:0.552969"
+     class="st1"
+     d="M 207.75145,24.385914 V 6.359139 c 0,-3.483702 -2.82014,-6.303842 -6.30384,-6.303842 H 30.303842 C 26.82014,-3e-6 24,2.82014 24,6.359139 v 18.026775 z"
+     id="path6" /><path
+     style="opacity:0.1;fill:#ffffff;stroke-width:0.552969"
+     class="st2"
+     d="M 207.75145,12.220605 V 6.359139 c 0,-3.483702 -2.82014,-6.303842 -6.30384,-6.303842 H 30.303842 C 26.82014,-3e-6 24,2.82014 24,6.359139 v 5.861466 z"
+     id="path8" /><circle
+     r="3.7048893"
+     style="fill:#e83f4e;stroke-width:0.552969"
+     class="st4"
+     cx="197.85333"
+     cy="12.220606"
+     id="circle98" /><circle
+     r="3.7048893"
+     style="fill:#2eab62;stroke-width:0.552969"
+     class="st5"
+     cx="185.688"
+     cy="12.220606"
+     id="circle100" /><circle
+     r="3.7048893"
+     style="fill:#faf5f5;stroke-width:0.552969"
+     class="st7"
+     cx="173.57799"
+     cy="12.220606"
+     id="circle102" /></g>
+<g
+   style="display:inline"
+   inkscape:label="Code"
+   id="layer1"
+   inkscape:groupmode="layer"><text
+     id="text960"
+     y="36.155048"
+     x="30.190119"
+     style="font-style:normal;font-weight:normal;font-size:2.94916px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.552969"
+     xml:space="preserve"><tspan
+       id="tspan992"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="36.155048"
+       x="30.190119"
+       sodipodi:role="line">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;</tspan><tspan
+       id="tspan1146"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="39.891899"
+       x="30.190119"
+       sodipodi:role="line">&lt;!DOCTYPE concept PUBLIC &quot;-//OASIS//DTD DITA Concept//EN&quot; &quot;concept.dtd&quot;&gt;</tspan><tspan
+       id="tspan1148"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="43.62875"
+       x="30.190119"
+       sodipodi:role="line">&lt;!--  This file is part of the DITA Open Toolkit project. </tspan><tspan
+       id="tspan1176"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="47.365601"
+       x="30.190119"
+       sodipodi:role="line">      See the accompanying LICENSE file for applicable license.  --&gt;</tspan><tspan
+       id="tspan1150"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="51.102451"
+       x="30.190119"
+       sodipodi:role="line">&lt;!-- (C) Copyright IBM Corporation 2001, 2005. All Rights Reserved. --&gt;</tspan><tspan
+       id="tspan1152"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="54.839302"
+       x="30.190119"
+       sodipodi:role="line" /><tspan
+       id="tspan1154"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="58.576153"
+       x="30.190119"
+       sodipodi:role="line">&lt;concept id=&quot;toolboxconcept&quot; xml:lang=&quot;en-us&quot;&gt;</tspan><tspan
+       id="tspan1156"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="62.313004"
+       x="30.190119"
+       sodipodi:role="line">  &lt;title&gt;Tool box&lt;/title&gt;</tspan><tspan
+       id="tspan1158"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="66.049858"
+       x="30.190119"
+       sodipodi:role="line">  &lt;shortdesc&gt;A tool box contains many compartments for organizing tools and hardware.&lt;/shortdesc&gt;</tspan><tspan
+       id="tspan1160"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="69.786705"
+       x="30.190119"
+       sodipodi:role="line">  &lt;conbody&gt;</tspan><tspan
+       id="tspan1162"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="73.52356"
+       x="30.190119"
+       sodipodi:role="line">    &lt;p&gt;Keep the tool box handy for all sorts of jobs around the house.&lt;/p&gt;</tspan><tspan
+       id="tspan1164"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="77.260406"
+       x="30.190119"
+       sodipodi:role="line">  &lt;/conbody&gt;</tspan><tspan
+       id="tspan1166"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="80.997261"
+       x="30.190119"
+       sodipodi:role="line">  &lt;related-links&gt;</tspan><tspan
+       id="tspan1168"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="84.734108"
+       x="30.190119"
+       sodipodi:role="line">    &lt;link href=&quot;tools.xml&quot; format=&quot;dita&quot; type=&quot;concept&quot;/&gt;</tspan><tspan
+       id="tspan1170"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="88.470963"
+       x="30.190119"
+       sodipodi:role="line">    &lt;link href=&quot;../tasks/organizing.xml&quot; format=&quot;dita&quot; type=&quot;task&quot;/&gt;</tspan><tspan
+       id="tspan1172"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="92.207809"
+       x="30.190119"
+       sodipodi:role="line">  &lt;/related-links&gt;</tspan><tspan
+       id="tspan1174"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.94916px;font-family:Consolas;-inkscape-font-specification:Consolas;fill:#0080ff;fill-opacity:1;stroke-width:0.552969"
+       y="95.944664"
+       x="30.190119"
+       sodipodi:role="line">&lt;/concept&gt;</tspan></text></g><g
+   style="display:inline"
+   inkscape:label="Glass"
+   id="layer2"
+   inkscape:groupmode="layer"><g
+     id="g126"
+     transform="matrix(0.55296857,0,0,0.55296857,2.987194,-23.335274)"><g
+       id="g54" /><g
+       id="g70" /><g
+       id="g124"><g
+         id="g118"><g
+           id="g106"><path
+             class="st0"
+             d="m 273.4,290.8 13.8,12.6 22,-24.2 -13.8,-12.6 c -4.2,3.4 -8.2,7.1 -12,11.3 -3.7,4.1 -7,8.4 -10,12.9 z"
+             id="path104" /></g><g
+           id="g112" /></g><g
+         id="g1351"><path
+           id="path110"
+           d="m 262.4,258.6 c -2.6,2.9 -5.4,5.6 -8.3,8.1 l 29.1,26.4 c 8.8,-2.5 13.9,-8.2 15.6,-17.1 l -29.1,-26.4 c -2.3,3.1 -4.7,6.1 -7.3,9 z"
+           class="st8" /><path
+           id="path114"
+           d="m 285.4,279.5 c -3.8,4.2 -7.8,7.9 -12,11.3 l 104.6,95 c 10,-5.7 17.3,-13.8 22,-24.2 l -104.6,-95 c -2.9,4.4 -6.3,8.7 -10,12.9 z"
+           class="st9" /><path
+           id="path116"
+           d="m 243,134.7 c 32.2,29.2 34.5,79 5.3,111.1 L 391,375.5 c 3.7,-4 6.7,-8.7 9,-13.9 l -90.7,-82.5 -13.8,-12.6 c -1.2,1 -2.5,2.1 -3.7,3.1 L 269.7,249.5 C 298.1,209.8 292.8,154.2 255.8,120.6 215.9,84.3 154.1,87.3 117.9,127.2 l 14,12.8 c 29.2,-32.1 79,-34.5 111.1,-5.3 z"
+           class="st2" /><path
+           style="fill:#faf5f5;fill-opacity:0.697356"
+           id="path122"
+           d="m 238.8,139.4 c -29.6,-26.9 -75.3,-24.7 -102.2,4.9 -0.5,0.6 -1,1.2 -1.5,1.8 27.3,-23.2 68.3,-23.1 95.5,1.6 29,26.3 31.7,70.8 6.4,100.4 2.3,-2 4.6,-4.2 6.7,-6.5 26.9,-29.6 24.7,-75.3 -4.9,-102.2 z"
+           class="st11" /></g></g></g><path
+     style="fill:#878787;stroke-width:0.552969"
+     class="st8"
+     d="M 68.182189,47.05763 C 48.10943,69.12108 49.768335,103.29453 71.831781,123.312 93.895229,143.38476 128.06869,141.72585 148.08615,119.6624 168.10361,97.59896 166.5,63.4255 144.43656,43.40804 122.37311,23.335279 88.199652,24.994185 68.182189,47.05763 Z M 140.28929,112.6397 C 124.14261,130.44529 96.604775,131.71712 78.854482,115.57044 61.048894,99.42375 59.777066,71.88592 75.923749,54.13563 92.070432,36.38534 119.60827,35.05821 137.35856,51.20489 c 17.80559,16.14669 19.13271,43.62922 2.93073,61.43481 z"
+     id="path108" /><path
+     style="display:inline;opacity:0.15;fill:#faf5f5;fill-opacity:0.981548;stroke-width:0.552969"
+     id="path120"
+     d="M 140.28929,112.6397 C 124.14261,130.44529 96.604775,131.71712 78.854482,115.57044 61.048894,99.42375 59.777066,71.88591 75.923749,54.13562 92.070432,36.38533 119.60827,35.05821 137.35856,51.20489 c 17.80559,16.14668 19.13271,43.62922 2.93073,61.43481 z"
+     class="st10" /></g></svg>
