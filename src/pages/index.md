@@ -16,7 +16,7 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/processes.svg
+    - image: /img/processes.png
       text: >
         We analyze the content creation process, gather feedback from the 
         authors, and identify potential for improvement.
