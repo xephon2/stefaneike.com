@@ -10,10 +10,13 @@ mainpitch:
     Stefan Eike is a consultant for technical documentation and software documentation
     with a focus on DITA-XML.
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Many software companies complain about documentation for different reasons. All types are affected, whether it is an end user documentation, an API documentation or internal. The most common issues are:
+  - The documentation is missing.
+  - The documentation is outdated.
+  - The documentation is unstructured.
+  - The documentation is inconsistent.
+  - The documentation is wrong.
+
 intro:
   blurbs:
     - image: /img/processes.png

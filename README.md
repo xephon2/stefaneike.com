@@ -1,6 +1,32 @@
-# Gatsby + Netlify CMS Starter
+# stefaneike.com
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/b654c94e-08a6-4b79-b443-7837581b1d8d/deploy-status)](https://app.netlify.com/sites/gatsby-starter-netlify-cms-ci/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/50470914-c796-4b9f-8c30-c4a0c3d976d2/deploy-status)](https://app.netlify.com/sites/stefaneike/deploys)
+
+
+## Prerequisites
+
+- Node (I recommend using v8.2.0 or higher)
+- [Gatsby CLI](https://www.gatsbyjs.org/docs/)
+- [Netlify CLI](https://github.com/netlify/cli)
+
+
+## Installation
+
+1. Install Gatsby CLI.
+    ```bash
+    npm install netlify-cli -g
+    ```
+2. Install Netlify CLI.
+    ```bash
+    npm install -g gatsby-cli
+    ```
+3. Launch yarn.
+    ```bash
+    yarn
+    ```
+    
+
+----
 
 **Note:** This starter uses [Gatsby v2](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/).
 
@@ -24,11 +50,6 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 - Perfect score on Lighthouse for SEO, Accessibility and Performance (wip:PWA)
 - ..and more
 
-## Prerequisites
-
-- Node (I recommend using v8.2.0 or higher)
-- [Gatsby CLI](https://www.gatsbyjs.org/docs/)
-- [Netlify CLI](https://github.com/netlify/cli)
 
 ## Getting Started (Recommended)
 
