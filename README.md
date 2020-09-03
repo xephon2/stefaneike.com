@@ -24,7 +24,15 @@
     ```bash
     yarn
     ```
-    
+
+## Usage
+
+To test the CMS locally, you'll need to run a production build of the site:
+
+```
+$ npm run build
+$ netlify dev # or ntl dev
+```
 
 ----
 
